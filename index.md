@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Start the messingplace
 
-Start the game in this [repository](https://github.com/ThodeC/thodecc/edit/gh-pages/Messingplace.html).
+Start the game in this [repository](https://thodec.github.io/thodecc/Messingplace.html).
 
 ### Jekyll Themes
 
